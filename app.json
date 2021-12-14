@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "sistemaventas",
+    "slug": "sistemaventas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "sistemaventas"
+}
